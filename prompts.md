@@ -16,11 +16,11 @@ The ships cannot overlap (i.e., only one ship can occupy any given square in the
 The types and numbers of ships allowed are the same for each player. 
 
 # Class of ship Size
-1 Carrier 5
-2 Battleship  4
-3 Cruiser 3
-4 Submarine 3
-5 Destroyer 2
+- 1 Carrier 5
+- 2 Battleship  4
+- 3 Cruiser 3
+- 4 Submarine 3
+- 5 Destroyer 2
 
 After the ships have been positioned, the game proceeds in a series of rounds. 
 In each round, each player takes a turn to announce a target square in the opponent's grid which is to be shot at.
@@ -33,6 +33,8 @@ After the player gets a hit the player continues shooting until the player gets 
 When all of the squares of a ship have been hit, the ship is sunk, and the ship's owner announces this (e.g. "You sank my battleship!"). 
 
 If all of a player's ships have been sunk, the game is over and their opponent wins.
+
+:[](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Battleship_game_board.svg/500px-Battleship_game_board.svg.png)
 
 # The Challenge
 
