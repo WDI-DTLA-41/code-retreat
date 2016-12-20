@@ -34,7 +34,7 @@ When all of the squares of a ship have been hit, the ship is sunk, and the ship'
 
 If all of a player's ships have been sunk, the game is over and their opponent wins.
 
-:[](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Battleship_game_board.svg/500px-Battleship_game_board.svg.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Battleship_game_board.svg/500px-Battleship_game_board.svg.png)
 
 # The Challenge
 
